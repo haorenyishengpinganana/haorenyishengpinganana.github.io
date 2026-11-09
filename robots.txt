@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haorenyishengpinganana.github.io/tizi-vpn-guide/sitemap.xml
